@@ -1,10 +1,10 @@
 <?php
-namespace moonland\tinymce;
+namespace fonclub\tinymce;
 
 use yii\helpers\ArrayHelper;
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
-use moonland\helpers\JSON;
+use yii\helpers\JSON;
 /**
  * TinyMCE Extension.
  * TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control.
@@ -13,7 +13,7 @@ use moonland\helpers\JSON;
  * 
  * ~~~
  * [php]
- * use moonland\tinymce\TinyMCE;
+ * use fonclub\tinymce\TinyMCE;
  * 
  * echo TinyMCE::widget(['name' => 'text-content']);
  * 
