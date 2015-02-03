@@ -46,4 +46,4 @@ $form->field($model, 'attribute')->widget(TinyMCE::className(), [
 ```
 
 ----
-Thank`s moonlandsoft/yii2-tinymce ;)
+Thank`s [moonlandsoft/yii2-tinymce](https://github.com/moonlandsoft/yii2-tinymce) ;)
