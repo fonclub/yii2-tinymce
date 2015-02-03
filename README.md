@@ -1,4 +1,4 @@
-moonlandsoft/yii2-tinymce
+fonclub/yii2-tinymce
 =========================
 The TinyMCE Extension for yii framework
 
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist moonlandsoft/yii2-tinymce "*"
+php composer.phar require --prefer-dist fonclub/yii2-tinymce "*"
 ```
 
 or add
 
 ```
-"moonlandsoft/yii2-tinymce": "*"
+"fonclub/yii2-tinymce": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -44,3 +44,6 @@ $form->field($model, 'attribute')->widget(TinyMCE::className(), [
 	]
 ]);
 ```
+
+----
+Thank`s moonlandsoft/yii2-tinymce ;)
