@@ -28,7 +28,7 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-use moonland\tinymce\TinyMCE;
+use fonclub\tinymce\TinyMCE;
 
 echo TinyMCE::widget(['name' => 'text-content']);
 
