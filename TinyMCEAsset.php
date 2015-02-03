@@ -1,11 +1,11 @@
 <?php
-namespace moonland\tinymce;
+namespace fonclub\tinymce;
 
 use yii\web\AssetBundle;
 
 class TinyMCEAsset extends AssetBundle
 {
-	public $sourcePath = '@moonland/tinymce/assets';
+	public $sourcePath = '@fonclub/tinymce/assets';
 	
 	public $css = [];
 	
